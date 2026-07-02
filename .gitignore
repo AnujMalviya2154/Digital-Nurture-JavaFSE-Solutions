@@ -1,0 +1,20 @@
+# Build output
+target/
+*.class
+bin/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs / DB
+*.log
+*.db
+
+# Local source cache (not part of submission)
+_source/
