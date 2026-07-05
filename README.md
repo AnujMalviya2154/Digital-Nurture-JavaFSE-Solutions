@@ -17,6 +17,7 @@ program (Java FSE React track). Exercises are organized **week-wise** as require
 | 1 | Logging — SLF4J | Ex1 Error messages & warning levels | ✅ |
 | 2 | Spring Core & Maven | Ex1 Basic App, Ex2 Dependency Injection, Ex4 Maven Project | ✅ |
 | 2 | Spring Data JPA + Hibernate | Quick Example, Add Country, Query Methods, O/R Mapping, HQL & Native Query | ✅ |
+| 3 | Spring REST using Spring Boot 3 | Web Project, Load Country from XML, Hello World, Country service, Get by code, JWT auth | ✅ |
 
 ## Layout
 
@@ -29,6 +30,8 @@ Week1/
 Week2/
   01-SpringCoreMaven-LibraryManagement/   Maven + Spring XML config
   02-SpringDataJPA-orm-learn/             Spring Boot + H2 in-memory DB
+Week3/
+  01-SpringREST-spring-learn/             Spring Boot 3 REST + Spring Security JWT
 ```
 
 Each folder has its own `README.md` explaining the exercise, how to run it, and the expected output.
