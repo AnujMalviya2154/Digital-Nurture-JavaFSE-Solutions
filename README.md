@@ -34,13 +34,3 @@ Week3/
   01-SpringREST-spring-learn/             Spring Boot 3 REST + Spring Security JWT
 ```
 
-Each folder has its own `README.md` explaining the exercise, how to run it, and the expected output.
-
-## How to run (quick reference)
-
-- **Plain Java** (Design Patterns, DSA): `javac *.java && java Main` inside the exercise folder.
-- **PL/SQL**: run the `.sql` scripts in Oracle SQL Developer / any Oracle instance (run schema setup first).
-- **Maven projects** (Week1/04, Week2/01): `mvn test` or `mvn exec:java`.
-- **Spring Boot** (Week2/02): `mvn spring-boot:run` — uses H2, no database install needed.
-
-See [SUBMISSION.md](SUBMISSION.md) for how this repo was created and shared.
