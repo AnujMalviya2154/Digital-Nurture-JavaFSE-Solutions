@@ -16,5 +16,12 @@ out/
 *.log
 *.db
 
+# Node / React
+node_modules/
+dist/
+npm-debug.log*
+
 # Local source cache (not part of submission)
 _source/
+scratch/
+
