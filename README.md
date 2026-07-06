@@ -1,28 +1,27 @@
 # Digital Nurture 5.0 — Deep Skilling (Java FSE React)
 
-My solutions to the **mandatory hands-on exercises** for the Cognizant DN 5.0 Deep Skilling
+My solutions to the **mandatory and additional hands-on exercises** for the Cognizant DN 5.0 Deep Skilling
 program (Java FSE React track). Exercises are organized **week-wise** as required by the handbook.
 
 > Source exercise statements: [Cognizant public repo](https://github.com/seshadrimr/Digital-Nurture-JavaFSE/tree/main/Java%20FSE/Deepskilling)
 
 ## Progress
 
-| Week | Skill | Mandatory hands-on | Status |
-|------|-------|--------------------|--------|
-| 1 | Design Patterns & Principles | Ex1 Singleton, Ex2 Factory Method | ✅ |
-| 1 | Data Structures & Algorithms | Ex2 E-commerce Search, Ex7 Financial Forecasting | ✅ |
-| 1 | PL/SQL Programming | Ex1 Control Structures, Ex3 Stored Procedures | ✅ |
-| 1 | TDD — JUnit 5 | Ex1 Setup, Ex3 Assertions, Ex4 AAA/Fixtures | ✅ |
-| 1 | TDD — Mockito | Ex1 Mocking & Stubbing, Ex2 Verifying Interactions | ✅ |
-| 1 | Logging — SLF4J | Ex1 Error messages & warning levels | ✅ |
-| 2 | Spring Core & Maven | Ex1 Basic App, Ex2 Dependency Injection, Ex4 Maven Project | ✅ |
-| 2 | Spring Data JPA + Hibernate | Quick Example, Add Country, Query Methods, O/R Mapping, HQL & Native Query | ✅ |
-| 3 | Spring REST using Spring Boot 3 | Web Project, Load Country from XML, Hello World, Country service, Get by code, JWT auth | ✅ |
-| 3 | Employee REST (Additional) | Departments and Employees controllers and services | ✅ |
-| 4 | Microservices | Account/Loan services, API Gateway, Eureka Discovery Server | ✅ |
-| 5 & 6 | React | Hands-on Labs 1 through 17 complete (Vite configured) | ✅ |
-| 6 | Git | Version Control Hands-on 1 through 5 CLI logs | ✅ |
-| 7 | Platforms | DevOps, Docker, Cloud, and GenAI concepts covered | ✅ |
+| Week | Skill | Mandatory Hands-on | Additional Hands-on | Status |
+|------|-------|--------------------|---------------------|--------|
+| 1 | Design Patterns & Principles | Ex1 (Singleton), Ex2 (Factory Method) | None | ✅ |
+| 1 | Data Structures & Algorithms | Ex2 (E-commerce Search), Ex7 (Financial Forecasting) | None | ✅ |
+| 1 | PL/SQL Programming | Ex1 (Control Structures), Ex3 (Stored Procedures) | None | ✅ |
+| 1 | TDD — JUnit 5 | Ex1 (Setup), Ex3 (Assertions), Ex4 (AAA/Fixtures) | None | ✅ |
+| 1 | TDD — Mockito | Ex1 (Mocking/Stubbing), Ex2 (Verifying Interactions) | None | ✅ |
+| 1 | Logging — SLF4J | Ex1 (Error messages & warning levels) | None | ✅ |
+| 2 | Spring Core & Maven | Ex1 (Basic App), Ex2 (DI), Ex4 (Maven Project Setup) | Ex5 (Configuring Container), Ex7 (Constructor/Setter Injection), Ex9 (Spring Boot App) | ✅ |
+| 2 | Spring Data JPA + Hibernate | Quick Example, JPA vs Hibernate vs Spring Data JPA | Services, Find by code, Add country, Query Methods, O/R Mapping, HQL & Native Queries | ✅ |
+| 3 | Spring REST using Spring Boot 3 | Maven Web, Load Country XML, Hello World, Country Service, Get by code, JWT Auth | All hands-on (Employee & Department REST CRUD Service) | ✅ |
+| 4 | Microservices | Account & Loan Microservices | Eureka Server & API Gateway Routing / Global Log Filter | ✅ |
+| 5 & 6 | React | Labs 1, 2, 3, 4, 5, 9, 10, 11, 12, 13 (Vite configured) | Labs 6, 7, 8, 14, 15, 16, 17 (Vite configured) | ✅ |
+| 6 | Git | Git-HOL 1 through 5 CLI logs | None | ✅ |
+| 7 | Platforms | None | DevOps, Docker, Cloud, and GenAI concepts covered | ✅ |
 
 ## Layout
 
